@@ -76,7 +76,7 @@ var readFile = () =>{
       });
  };
  var updateDatas = () =>{
-    fs.writeFile(fname+".txt",content,(err) => {
+    fs.writeFile(filename+".txt",content,(err) => {
         if (err){
             console.log(err);
         }else {
