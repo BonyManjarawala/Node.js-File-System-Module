@@ -1,18 +1,19 @@
 # Node.js-File-System-Module
-Write a Node.js program to do the following:
 
-*Create Directory ( Hint: fs.mkdir )
+# Write a Node.js program to do the following:
 
-*Remove Directory ( Hint: fs.rmdir )
+* Create Directory ( Hint: fs.mkdir )
 
-*Write File 
+* Remove Directory ( Hint: fs.rmdir )
 
-*Read File 
+* Write File 
 
-*Delete File
+* Read File 
 
-*Append data to file
+* Delete File
 
-*Update / Replace file with new data
+* Append data to file
 
-*Rename File
+* Update / Replace file with new data
+
+* Rename File
